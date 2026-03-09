@@ -134,8 +134,7 @@ divided into a file record table, a name offset table, a name block, a hash
 table, and a raw data region. Files are never compressed. The extractor
 detects this format automatically.
 
-OpenMW-based modlists (e.g. those built with Mod Organizer / OpenMW's native
-installer) typically unpack BSAs to loose files at install time, so there may
+OpenMW-based modlists (e.g. those built with [Modding OpenMW's umo installer](https://modding-openmw.com/)) typically unpack BSAs to loose files at install time, so there may
 be no BSAs present to scan even for Morrowind modlists.
 
 ### Oblivion / FO3 / FNV (BSA v103 / v104)
